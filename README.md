@@ -34,26 +34,8 @@ station_name latitude longitude depth(m)
 
 File Structure
 
-/data
-│
-├── LMSFZ
-│   ├── VelocityInversion
-│   │   ├── absolute.dat
-│   │   ├── dt.ct
-│   │   ├── event.dat
-│   │   ├── station.dat
-│   │
-│   ├── EventRelocation
-│       ├── absolute.dat
-│       ├── dt.ct
-│       ├── event.dat
-│       ├── station.dat
-│
-└── Parkfield
-    ├── absolute.dat
-    ├── dt.ct
-    ├── event.dat
-    ├── station.dat
+
+    
 
 Purpose of the Data
 
