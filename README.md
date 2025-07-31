@@ -62,3 +62,7 @@ station_name latitude longitude depth(m)
 # Purpose of the Data
 
 This dataset is used for the synthetic tests described in the article, aiming to validate the performance of the models and methods. Details on the testing procedures and usage can be found in the main text and appendix of the article.
+
+# Reference
+
+Yang H, Zhang X, Zhang H. 3-D variational inference-based double-difference seismic tomography method and application to the SAFOD site, California[J]. Geophysical Journal International, 2025, 241(1): 378-404.
